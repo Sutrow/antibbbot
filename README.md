@@ -41,7 +41,7 @@ python -m pip install -r requirements.txt
 python -m jupyterlab
 ```
 
-Открыть `notebooks/03_solution.ipynb` и выполнить все ячейки. Для просмотра исследования начать с `01_eda.ipynb`.
+Надо открыть `notebooks/03_solution.ipynb` и выполнить все ячейки
 
 В архиве исходные данные уже лежат в `data/`. При работе с Git они исключены через `.gitignore`.
 
